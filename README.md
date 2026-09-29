@@ -1,10 +1,10 @@
 # Marketplace de productos para mascotas
 
-## Integrante
+## Nombre
 Carlos Edilson Huarcaya Palomino
 
 ## Descripción
-Marketplace académico donde diferentes vendedores ofrecen productos para mascotas y los clientes pueden comprarlos en línea.
+Marketplace académico de productos para mascotas.
 
 ## Caso de estudio
 GoPet como referencia funcional.
